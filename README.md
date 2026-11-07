@@ -1,1 +1,3 @@
-# Day-1-Workshop-TIKMENGAJAR-26
+Alya Roosa
+Repository adalah
+Kegunaan Repository
